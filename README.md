@@ -1,6 +1,6 @@
 # Essence
 
-A lightweight vanilla HTML, CSS and JavaScript fragrance storefront for a Web Analytics academic project.
+A lightweight vanilla HTML, CSS and JavaScript fragrance storefront for a Web Analytics.
 
 ## Pages
 
@@ -8,7 +8,7 @@ Home, shop, product details, cart, checkout, about, and order confirmation.
 
 ## Catalog
 
-18 products across Zara (4), Dior (4), BellaVita (3), Tom Ford (4), and Nautica (3). Product bottle images are local files in `assets/images/products`.
+18 products across Zara, Dior, BellaVita, Tom Ford, and Nautica. Product bottle images are local files in `assets/images/products`.
 
 ## Analytics preparation
 
